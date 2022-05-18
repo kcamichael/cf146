@@ -1,0 +1,27 @@
+#list{
+	position: relative;
+	width: 500px;
+	padding: 30px 50px;
+	margin: 0 auto;
+	background-color: #fff;
+	-webkit-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), inset 0 0 50px rgba(0, 0, 0, 0.1);
+	-moz-box-shadow: 0 0 4px rgba(0, 0, 0, 0.2), inset 0 0 50px rgba(0, 0, 0, 0.1);
+	box-shadow: 0 0 5px rgba(0, 0, 0, 0.2), inset 0 0 50px rgba(0, 0, 0, 0.1);
+}
+
+/* https://www.sitepoint.com/pure-css3-paper-curls/ */
+
+input{
+	border-radius: 1em;
+	height: 2em;
+	width: 30em;
+	margin: 4px;
+	/* text-align: center; */
+}
+
+#inputfield button {
+	border-radius: 1em;
+	height: 2.5em;
+	width: 5em;
+	margin: 1em;
+}
